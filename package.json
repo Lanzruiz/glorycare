@@ -1,0 +1,12 @@
+{
+  "name": "glorycareapp",
+  "version": "1.0.0",
+  "description": "Reactjs Application for Glory Care",
+  "main": "index.js",
+  "author": "Lanz Ruiz",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
